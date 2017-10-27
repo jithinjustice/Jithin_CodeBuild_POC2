@@ -1,0 +1,5 @@
+projectKey=ALM-poc1:master
+serverUrl=http://172.27.59.149:9005
+dashboardUrl=http://172.27.59.149:9005/dashboard/index/ALM-poc1:master
+ceTaskId=AV7C1-YoA2G0VjbZJCvU
+ceTaskUrl=http://172.27.59.149:9005/api/ce/task?id=AV7C1-YoA2G0VjbZJCvU
